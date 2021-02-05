@@ -3950,3 +3950,8 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+
+		#banner {
+			background:url ('images/visual_bg.png') center center no-repeat;
+			background-size:conver;
+		}
